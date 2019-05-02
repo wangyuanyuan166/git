@@ -1,0 +1,12 @@
+
+target 'gifCreator' do
+ pod 'SDWebImage'
+ pod  'SVProgressHUD'
+ pod 'SDWebImage/GIF'
+end
+
+
+target 'gifCreatorIMessage' do
+    
+    pod 'SDWebImage'
+end
